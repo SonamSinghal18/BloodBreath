@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../javascript lec1"
+		},
+		{
+			"path": "../../../javascript lec2"
+		},
+		{
+			"path": "../../../javascript lec3"
+		},
+		{
+			"path": "../../../scripts"
+		},
+		{
+			"path": "../../../JS.PIANO"
+		},
+		{
+			"path": "../../../javascript lec4 DOM"
+		},
+		{
+			"path": "../../../personal finance"
+		},
+		{
+			"name": "BloodBreath",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BloodBreath"
+	}
+}
